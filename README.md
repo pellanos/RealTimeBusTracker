@@ -1,5 +1,6 @@
 # Real Time Bus Tracker
-Using Mapbox API and MBTA's Bus Route 1, the busses real-time positions are added.
+This bus tracker renders on a map, the data from MBTA's Bus Route 1, to get the busses real-time positions
+
 <img src= "RealTimeBusTracker.png" width='300'/>
 
 ## How to Run
